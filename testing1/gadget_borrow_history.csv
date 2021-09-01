@@ -1,0 +1,3 @@
+id;id_peminjam;id_gadget;tanggal_peminjaman;jumlah;is_returned
+PG2;#003;G05;27/03/2013;5;False
+PG1;#003;G02;14/11/2005;2;True
